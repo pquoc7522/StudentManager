@@ -1,0 +1,11 @@
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.AssemblyReference.cache
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Form1.resources
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\phamcongquoc\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.exe.config
