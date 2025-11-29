@@ -6,7 +6,7 @@
 * **Môi trường phát triển:** Visual Studio 2019/2022
 * **SDK:** .NET Framework 4.7.2 (hoặc phiên bản .NET mà project của bạn sử dụng).
 
-* ## 🛠️ Yêu cầu Hệ thống
+*  Yêu cầu Hệ thống
 * **Hệ điều hành:** Windows 10/11
 * **Môi trường phát triển:** Visual Studio 2019/2022
 * **SDK:** .NET Framework 4.7.2 (hoặc phiên bản .NET mà project của bạn sử dụng).
