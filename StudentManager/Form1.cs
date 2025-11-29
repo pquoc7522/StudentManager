@@ -61,7 +61,7 @@ namespace StudentManager
             }
 
             students.Add(s);
-            dgvStudents.DataSource = null;
+        
             dgvStudents.DataSource = students;
         }
 
