@@ -48,9 +48,9 @@
             this.lblName.AutoSize = true;
             this.lblName.Location = new System.Drawing.Point(41, 33);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(82, 25);
+            this.lblName.Size = new System.Drawing.Size(111, 25);
             this.lblName.TabIndex = 0;
-            this.lblName.Text = "Họ Tên";
+            this.lblName.Text = "Họ va Tên";
             this.lblName.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
